@@ -1,0 +1,29 @@
+top {
+   background-image: url("https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"); 
+    
+
+}
+
+.top {
+
+    background-color: #f8f9fa;
+    
+
+}
+
+img {
+    border-radius: 50%;
+}
+
+h4 a {
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    padding: 5px 10px ;
+    font-weight:400;
+}
+
+a:hover {
+    
+    color: black;
+}
