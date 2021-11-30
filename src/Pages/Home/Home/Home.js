@@ -1,5 +1,7 @@
 import React from 'react';
 import Header from '../../Shared/Header/Header';
+import Mailer from '../Mailer/Mailer';
+import MyProjects from '../MyProjects/MyProjects';
 import TopBanner from '../TopBanner/TopBanner';
 
 const Home = () => {
@@ -7,6 +9,7 @@ const Home = () => {
         <div>
             <Header></Header>
             <TopBanner></TopBanner>
+            <Mailer></Mailer>
         </div>
     );
 };

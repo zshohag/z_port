@@ -45,15 +45,20 @@ const TopBanner = () => {
           </p>
 
                 
-                <h4 ><a href="https://drive.google.com/file/d/1_fKGpFiybLassokv0_XioI8z5FSjpAB0/view?usp=sharing"
+                <h4 >
+                <a href="https://drive.google.com/file/d/1_fKGpFiybLassokv0_XioI8z5FSjpAB0/view?usp=sharing"
+                target="_blank" >Hire Me</a>
+                    <a href="https://drive.google.com/file/d/1_fKGpFiybLassokv0_XioI8z5FSjpAB0/view?usp=sharing"
                 target="_blank" >Download Resume</a></h4>
+
+                
             
                 </div>
                 </Col>
 
                 <Col >
                      
-                    <div className='image '  >
+                    <div className='image'  >
 
                      <img style={{width:'400px'}} src={Z} alt="" />
                     </div>
